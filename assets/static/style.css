@@ -37,3 +37,7 @@ header nav ul li {
     margin: 0 8px 0 0;
     padding: 0;
 }
+
+div.page {
+    line-height: 1.75;
+}
