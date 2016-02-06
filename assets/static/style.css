@@ -1,5 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,300italic,400italic,500,500italic);
+
 body {
-    font-family: 'Verdana', sans-serif;
+    font-family: 'Roboto Slab', 'Georgia', 'Times New Roman', serif;
     margin: 50px 25px;
 }
 
@@ -14,7 +16,6 @@ a:hover {
 header, footer, div.page {
     width: 760px;
     margin: 0 auto;
-    background: #daeef3;
     padding: 20px 30px;
 }
 
@@ -35,8 +36,4 @@ header nav ul li {
     display: inline;
     margin: 0 8px 0 0;
     padding: 0;
-}
-
-div.page {
-    background: #f1fbfe;
 }
