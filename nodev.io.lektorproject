@@ -1,2 +1,6 @@
 [project]
 name = nodev.io
+
+[servers.ghpages]
+target = ghpages+ssh://nodev-io/nodev-io.github.io
+
