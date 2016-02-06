@@ -1,6 +1,13 @@
 [project]
 name = nodev.io
 
-[servers.ghpages]
+[packages]
+lektor-markdown-header-anchors = 0.1
+lektor-markdown-highlighter = 0.1
+lektor-markdown-admonition = 0.1
+
+[servers.production]
+name = Production
 target = ghpages+ssh://nodev-io/nodev-io.github.io
+default = yes
 
