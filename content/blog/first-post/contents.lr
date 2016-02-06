@@ -14,9 +14,8 @@ I shouldn't have accepted to use it, I'm sorry."
 I replied without turning.
 
 "No, it's not that.
-Have a look at this piece of code that I'm writing --
-I'm sure it has been written before. Possibly dozens of times already.
-I wouldn't be surprised to find it verbatim somewhere on GitHub."
+Have a look at this piece of code that I'm writing&mdash;I'm sure it has been written before.
+Possibly dozens of times already. I wouldn't be surprised to find it verbatim somewhere on GitHub."
 His tone was unusually excited.
 
 I turned and looked at his monitor. "Well, sure a lot of people need to do [some common task]."
@@ -26,8 +25,7 @@ He remained silent for a few seconds.
 "You see, sometimes I feel like we developers spend most of our time re-implementing code
 that has already been written somewhere, we just don't know where."
 
-"I see your point...
-Let's hope no one builds a search engine for code then.
+"I see your point&mdash;Let's hope no one builds a search engine for code then.
 Or we would be out of business in no time! Ah, ah!"
 
 "That is precisely the point: there's no way to search code by features.
@@ -57,5 +55,4 @@ it doesn't require much additional effort."
 "Well, running a test on, say, all the code on GitHub it's not going to be easy, though.
 You need a lot of resources."
 
-"Yes, but that it's just dirty cheap CPU time --
-We might have some kind of start-up material in our hands."
+"Yes, but that it's just dirty cheap CPU time&mdash;We might have some kind of start-up material in our hands."
