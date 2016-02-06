@@ -2,7 +2,7 @@ title: Short story of an epiphany
 ---
 pub_date: 2016-02-06
 ---
-author: Alessandro Amici
+author: @alexamici
 ---
 body:
 
@@ -56,3 +56,5 @@ it doesn't require much additional effort."
 You need a lot of resources."
 
 "Yes, but that it's just dirty cheap CPU time&mdash;We might have some kind of start-up material in our hands."
+---
+github_handle: alexamici

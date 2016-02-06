@@ -7,9 +7,9 @@
   {% endif %}
   <p class="meta">
     written by
-    {% if post.twitter_handle %}
-      <a href="https://twitter.com/{{ post.twitter_handle
-        }}">{{ post.author or post.twitter_handle }}</a>
+    {% if post.github_handle %}
+      <a href="https://github.com/{{ post.github_handle
+        }}">{{ post.author or post.github_handle }}</a>
     {% else %}
       {{ post.author }}
     {% endif %}
