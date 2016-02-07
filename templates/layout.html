@@ -5,10 +5,11 @@
 <body>
   <header>
     <h1>nodev.io</h1>
+    <p class="claim">There's better things to do than reinvent wheels</p>
     <nav>
       <ul class="nav navbar-nav">
         <li{% if this._path == '/' %} class="active"{% endif
-          %}><a href="{{ '/'|url }}">Welcome</a></li>
+          %}><a href="{{ '/'|url }}">Home</a></li>
         {% for href, title in [
           ['/blog', 'Blog'],
           ['/projects', 'Projects'],

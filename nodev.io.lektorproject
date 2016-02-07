@@ -10,4 +10,3 @@ lektor-markdown-admonition = 0.1
 name = Production
 target = ghpages+ssh://nodev-io/nodev-io.github.io
 default = yes
-

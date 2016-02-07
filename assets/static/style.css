@@ -19,11 +19,26 @@ header, footer, div.page {
     padding: 20px 30px;
 }
 
+header {
+    position: relative;
+    height: 110px;
+}
+
 header h1 {
     color: #169bbd;
     margin: 0;
     font-weight: normal;
     font-size: 42px;
+}
+
+header .claim {
+    color: #169bbd;
+    margin: 0px 20px;
+}
+
+header nav {
+    position: absolute;
+    bottom: 0;
 }
 
 header nav ul {
@@ -38,6 +53,14 @@ header nav ul li {
     padding: 0;
 }
 
-div.page {
+article.blog-post p {
     line-height: 1.75;
+}
+
+h2 {
+    margin: 0;
+}
+
+.meta {
+    margin-top: 0;
 }
