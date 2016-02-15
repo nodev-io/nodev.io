@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Roboto Slab', 'Georgia', 'Times New Roman', serif;
-    margin: 50px 25px;
+    margin: 25px 0;
 }
 
 a {
@@ -16,7 +16,7 @@ a:hover {
 header, footer, div.page {
     width: 760px;
     margin: 0 auto;
-    padding: 20px 30px;
+    padding: 20px 20px;
 }
 
 header {
