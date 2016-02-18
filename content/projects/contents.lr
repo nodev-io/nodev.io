@@ -6,7 +6,10 @@ body:
 
 nodev related tools:
 
-- pytest-wish:
-  [Documentation](https://pytest-wish.readthedocs.org) -
-  [Support](https://stackoverflow.com/search?q=pytest-wish) -
-  [Development](https://github.com/alexamici/pytest-wish)
+- pytest-nodev: Source code search-by-tests plugin for pytest.
+  [Documentation](https://pytest-nodev.readthedocs.org) -
+  [Support](https://stackoverflow.com/search?q=pytest-nodev) -
+  [Development](https://github.com/nodev-io/pytest-nodev)
+
+- nodev.specs: Helpers to write specification tests.
+  [Development](https://github.com/nodev-io/nodev.specs)
