@@ -1,0 +1,32 @@
+title: Libraries, reusable code and keyword based search engines
+---
+author: @alexamici
+---
+github_handle: @alexamici
+---
+pub_date: 2016-02-15
+---
+body:
+
+Every elementary feature in a software project requires code that lies somewhere
+in a wide re-usability scale that goes
+form extremely custom and strongly tied to the specific implementation
+to completely generic and highly reusable.
+
+On the *custom* side of the spectrum there is all the code that defines the
+features of the software and all the choices of its implementation.
+That one is code that need to be written.
+
+On the other hand a seasoned software developer is trained to spot
+pieces of functionality that lie far enough on the *generic* side of the range
+that with high probability a library already implements it
+**and documents it well enough to be discovered with a keyword-based internet search**.
+
+In between the two extremes there is a huge gray area populated by pieces of functionality
+that are not *generic* enough to obviously deserve a place in a library, but are
+*common* enough that must have been already implemented by someone else for their
+software. A huge trove of reusable code that is not actually reused.
+This kind of code is doomed to be re-implemented again and again
+for the simple reason that **there is no way to search code by functionality**...
+
+Or is it?
